@@ -18,7 +18,7 @@ forest.fit(X_train, y_train)
 accuracy_train = forest.score(X_train, y_train)
 accuracy_test = forest.score(X_test, y_test)
 
-metrics = open("metrics.txt", "a")
+metrics = open("metrics.txt", "w")
 
 print("Accuracy on training set: {:.3f}".format(accuracy_train), file=metrics)
 print("Accuracy on test set: {:.3f}".format(accuracy_test), file=metrics)
