@@ -1,0 +1,6 @@
+Accuracy on training set: 0.991
+Accuracy on test set: 0.974
+Confusion Matrix:
+[[13  0  0]
+ [ 0 15  1]
+ [ 0  0  9]]
