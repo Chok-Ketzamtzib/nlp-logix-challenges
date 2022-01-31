@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+setup.py
+nlpchallengespackage/__init__.py
+nlpchallengespackage/challenge_1.py
+nlpchallengespackage/challenge_2.py
+nlpchallengespackage/challenge_3.py
+nlpchallengespackage.egg-info/PKG-INFO
+nlpchallengespackage.egg-info/SOURCES.txt
+nlpchallengespackage.egg-info/dependency_links.txt
+nlpchallengespackage.egg-info/entry_points.txt
+nlpchallengespackage.egg-info/top_level.txt
